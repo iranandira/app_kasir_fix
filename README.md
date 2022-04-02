@@ -1,9 +1,8 @@
-
 teknologi : 
-  -php
-  -codeigniter 3 
-  -bootstrap 
-	-database  mysql
+-php
+-codeigniter 3 
+-bootstrap 
+-database  mysql
 
 Aplikasi ini hanya crud sederhana dan proses transaksi yang sederhana .
 
