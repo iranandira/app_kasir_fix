@@ -1,14 +1,14 @@
 teknologi : 
--php
--codeigniter 3 
--bootstrap 
--database  mysql
+ -php
+ -codeigniter 3 
+ -bootstrap 
+ -database  mysql
 
 Aplikasi ini hanya crud sederhana dan proses transaksi yang sederhana .
 
 login menggunakan :
-	username = lulu
-	password = 12345
+username = lulu
+password = 12345
 
 ![k01](https://user-images.githubusercontent.com/82190659/161363748-077657d8-4b54-42a5-8fc3-8b292e6ca4b8.png)
 
